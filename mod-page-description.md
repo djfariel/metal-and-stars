@@ -1,3 +1,5 @@
+### Fork of Metal and Stars version 0.1.17 to change the Armoured Biters requirement. Not providing support for any issues this creates, nor providing updates beyond this. 
+
 ## There's more than one way to leave the solar system
 4 new space locations, each with their own science pack. A serenely derelict space platform, an artificial ringworld that's been overtaken by opposing forces, a dark and frozen world with mixed resources, and a debris field with phase-changing asteroids. You can access this solar subsystem as soon as you leave nauvis.
 
