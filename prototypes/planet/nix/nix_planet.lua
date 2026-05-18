@@ -1,4 +1,4 @@
-local nix_map_gen = require("__metal-and-stars__.prototypes.planet.nix.nix_map_gen")
+local nix_map_gen = require("__metal-and-stars-fariels-fork__.prototypes.planet.nix.nix_map_gen")
 local asteroid_util = require("__space-age__.prototypes.planet.asteroid-spawn-definitions")
 
 local meld = require("meld")

@@ -1,6 +1,6 @@
 local hit_effects = require("__base__.prototypes.entity.hit-effects")
 local sounds = require("__base__.prototypes.entity.sounds")
-local asset_graphics = require("__metal-and-stars__.prototypes.entity.quantum-stabilizer-visuals")
+local asset_graphics = require("__metal-and-stars-fariels-fork__.prototypes.entity.quantum-stabilizer-visuals")
 local meld = require("meld")
 
 local item_name = "ms-quantum-stabilizer"

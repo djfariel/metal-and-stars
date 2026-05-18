@@ -1,5 +1,5 @@
 local explosion_animations = require("__space-age__.prototypes.entity.explosion-animations")
-local mirandite_asteroids_sounds = require ("__metal-and-stars__.prototypes.entity.asteroids.sounds")
+local mirandite_asteroids_sounds = require ("__metal-and-stars-fariels-fork__.prototypes.entity.asteroids.sounds")
 
 data:extend({
   -------------------------------------------------------------------------------

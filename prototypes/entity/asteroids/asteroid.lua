@@ -18,7 +18,7 @@ Potential names: internal, trojan, detonate, depth, siege
 // Blender output settings: color management: Override, display device: XYZ, View: Raw, Look:None, Exposure:0, Gamma: 1
 ]]
 
-local simulations = require("__metal-and-stars__.prototypes.entity.asteroids.factoriopedia-simulations")
+local simulations = require("__metal-and-stars-fariels-fork__.prototypes.entity.asteroids.factoriopedia-simulations")
 
 local asteroid_sizes = {"chunk", "small", "medium", "big", "huge"}
 local shared_resistances =

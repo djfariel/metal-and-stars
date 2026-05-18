@@ -1,4 +1,4 @@
-local volantus_map_gen = require("__metal-and-stars__.prototypes.planet.volantus.volantus_map_gen")
+local volantus_map_gen = require("__metal-and-stars-fariels-fork__.prototypes.planet.volantus.volantus_map_gen")
 local effects = require("__core__/lualib/surface-render-parameter-effects")
 local asteroid_util = require("__space-age__.prototypes.planet.asteroid-spawn-definitions")
 

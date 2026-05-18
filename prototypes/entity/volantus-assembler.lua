@@ -1,6 +1,6 @@
 local hit_effects = require("__base__.prototypes.entity.hit-effects")
 local sounds = require("__base__.prototypes.entity.sounds")
-local asset_graphics = require("__metal-and-stars__.prototypes.entity.gravity-assembler-visuals")
+local asset_graphics = require("__metal-and-stars-fariels-fork__.prototypes.entity.gravity-assembler-visuals")
 local meld = require("meld")
 
 local item_name = "volantus-assembler"

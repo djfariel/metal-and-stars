@@ -1,4 +1,4 @@
-local particle_animations = require("__metal-and-stars__/prototypes/entity/asteroids/particle-animations")
+local particle_animations = require("__metal-and-stars-fariels-fork__/prototypes/entity/asteroids/particle-animations")
 
 local water_trigger_effect = data.raw["optimized-particle"]["metallic-asteroid-chunk-particle-small"].ended_in_water_trigger_effect
 

@@ -1,4 +1,4 @@
-local ringworld_map_gen = require("__metal-and-stars__.prototypes.planet.ringworld.ringworld_map_gen")
+local ringworld_map_gen = require("__metal-and-stars-fariels-fork__.prototypes.planet.ringworld.ringworld_map_gen")
 local asteroid_util = require("__space-age__.prototypes.planet.asteroid-spawn-definitions")
 
 local meld = require("meld")

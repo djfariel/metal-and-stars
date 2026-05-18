@@ -4,7 +4,7 @@ require ("__base__.prototypes.entity.spitter-animations")
 require ("__base__.prototypes.entity.spawner-animation")
 
 local biter_ai_settings = require ("__base__.prototypes.entity.biter-ai-settings")
-local machina_enemy_autoplace = require ("__metal-and-stars__.prototypes.entity.machina-enemy-autoplace-utils")
+local machina_enemy_autoplace = require ("__metal-and-stars-fariels-fork__.prototypes.entity.machina-enemy-autoplace-utils")
 local sounds = require ("__base__.prototypes.entity.sounds")
 local hit_effects = require ("__base__.prototypes.entity.hit-effects")
 local simulations = require("__base__.prototypes.factoriopedia-simulations")
